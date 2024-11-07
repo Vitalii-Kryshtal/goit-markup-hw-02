@@ -1,5 +1,5 @@
  body {
-font-family: "Roboto",sans-serif;
+font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #fff;
 }
@@ -59,7 +59,7 @@ header {
     color: #404bbf;
 }
 .main-block {
-    background: #4d5ae5;
+    background: #2e2f42;
 }
 .head-title {
     font-weight: 700;
@@ -89,6 +89,9 @@ header {
     color: #fff;
     text-align: center;
     background-color: #404bbf;
+}
+.team-list {
+background-color: #f4f4fd;
 }
 .two-section {
     color: #fff;
@@ -170,6 +173,9 @@ header {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
 }
 .accent-footer {
     color: #f4f4fd;
