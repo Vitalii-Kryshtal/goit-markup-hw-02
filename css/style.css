@@ -120,6 +120,7 @@ background-color: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 .team-list-blocks {
     list-style-type: none;
@@ -187,7 +188,7 @@ background-color: #f4f4fd;
 .accent-footer {
     color: #f4f4fd;
 }
-.text-footer {
+.footer-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1,5;
