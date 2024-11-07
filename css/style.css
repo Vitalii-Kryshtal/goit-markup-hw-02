@@ -114,6 +114,12 @@ background-color: #f4f4fd;
 }
 .team-title {
     background: #f4f4fd;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 .team-list-blocks {
     list-style-type: none;
@@ -148,6 +154,7 @@ background-color: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 .title-portfolio-foto {
     font-weight: 500;
@@ -183,7 +190,7 @@ background-color: #f4f4fd;
 .text-footer {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1,5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #F4F4FD;
 }
